@@ -12,7 +12,7 @@ LLMs are good at fixing and adapting LaTex code. You can use them to make modifi
 
 ## Acknowledgements
 
-[Arend Ligtenberg](https://www.wageningenur.nl/en/Persons/Arend-Ligtenberg.htm) from the Laboratory of Geo-Information Science and Remote Sensing (Wageningen University) is the main person behind this template. He designed the whole thing in 2006 for his own [thesis](http://edepot.wur.nl/40696). Minor adjustments were made by Kim Calders (2014), Ben deVries (2015), Loïc Dutrieux (2016), and myself (2025). Big thanks to them.
+[Arend Ligtenberg](https://www.wageningenur.nl/en/Persons/Arend-Ligtenberg.htm) from the Laboratory of Geo-Information Science and Remote Sensing (Wageningen University) is the main person behind this template. He designed the whole thing in 2006 for his own [thesis](http://edepot.wur.nl/40696). Minor adjustments were made by Kim Calders (2014), Ben deVries (2015), Loïc Dutrieux (2016), and myself, [David Rapado-Rincon](https://research.wur.nl/en/persons/david-rapado-rincon) (2025). Big thanks to them.
 
 Good luck finalizing your thesis,
 
