@@ -61,6 +61,7 @@
 \usepackage{booktabs}
 \usepackage{doi}
 \usepackage{tikz} % for thumb tabs
+\usepackage{lipsum} % for lorem ipsum text
 
 \addto\captionsenglish{\renewcommand{\bibname}{References}}
 
@@ -376,8 +377,7 @@
 \stepcounter{thumbchapter}\include{03_chapter3}
 \stepcounter{thumbchapter}\include{04_chapter4}
 \stepcounter{thumbchapter}\include{05_chapter5}
-\stepcounter{thumbchapter}\include{06_chapter6}
-\stepcounter{thumbchapter}\include{07_chapter7} % Discussion
+\stepcounter{thumbchapter}\include{06_chapter6} % Discussion
 
 
 \backmatter
@@ -397,22 +397,17 @@
 
 %% Back Matter
 \phantomsection
-\include{08_biography}
+\include{07_biography}
 \cleardoublepage
 \phantomsection
 
-\include{09_TESF}
+\include{08_TESF}
 
 \renewcommand{\headrulewidth}{0pt}
 \cleartoleftpage
 
-\include{10_authorship}
+\include{09_authorship}
 \cleartoleftpage
 
-\include{11_funding}
-\end{document}
-\include{10_authorship}
-\cleartoleftpage
-
-\include{11_funding}
+\include{10_funding}
 \end{document}

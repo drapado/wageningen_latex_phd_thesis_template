@@ -9,18 +9,8 @@ In case you're not sure how you got here in the first place, you're not at all i
 
 ## Acknowledgements
 
-[Arend Ligtenberg](https://www.wageningenur.nl/en/Persons/Arend-Ligtenberg.htm) from the Laboratory of Geo-Information Science and Remote Sensing (Wageningen University) is the main person behind this template. He designed the whole thing in 2006 for his own [thesis](http://edepot.wur.nl/40696). Minor adjustments were made by Kim Calders (2014), Ben deVries (2015) and myself. Big thanks to them.
-
-## Additional tips
-
-- [bibtool](http://www.ctan.org/tex-archive/biblio/bibtex/utils/bibtool): Tool for merging bib files. If your bib entry always came from the same source (I get them all from google scholar), the following line will produce exactly what you need.
-
-```bash
-bibtool -s -d chapter1/latex/refs.bib chapter2/latex/refs.bib chapter3/latex/refs.bib chapter4/latex/refs.bib chapter5/latex/refs.bib > phd/refs.bib
-```
-
-- [paperProject](https://github.com/dutri001/paperProject): A framework for structuring each individual chapter, integrating analysis with writing.
+[Arend Ligtenberg](https://www.wageningenur.nl/en/Persons/Arend-Ligtenberg.htm) from the Laboratory of Geo-Information Science and Remote Sensing (Wageningen University) is the main person behind this template. He designed the whole thing in 2006 for his own [thesis](http://edepot.wur.nl/40696). Minor adjustments were made by Kim Calders (2014), Ben deVries (2015), Loïc Dutrieux (2016), and myself (2025). Big thanks to them.
 
 Good luck finalizing your thesis,
 
-Loïc	
+David	
